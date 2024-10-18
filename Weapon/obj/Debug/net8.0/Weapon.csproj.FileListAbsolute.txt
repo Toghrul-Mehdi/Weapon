@@ -1,0 +1,29 @@
+C:\Users\Victus\source\repos\Weapon\Weapon\bin\Debug\net8.0\Weapon.exe
+C:\Users\Victus\source\repos\Weapon\Weapon\bin\Debug\net8.0\Weapon.deps.json
+C:\Users\Victus\source\repos\Weapon\Weapon\bin\Debug\net8.0\Weapon.runtimeconfig.json
+C:\Users\Victus\source\repos\Weapon\Weapon\bin\Debug\net8.0\Weapon.dll
+C:\Users\Victus\source\repos\Weapon\Weapon\bin\Debug\net8.0\Weapon.pdb
+C:\Users\Victus\source\repos\Weapon\Weapon\obj\Debug\net8.0\Weapon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victus\source\repos\Weapon\Weapon\obj\Debug\net8.0\Weapon.AssemblyInfoInputs.cache
+C:\Users\Victus\source\repos\Weapon\Weapon\obj\Debug\net8.0\Weapon.AssemblyInfo.cs
+C:\Users\Victus\source\repos\Weapon\Weapon\obj\Debug\net8.0\Weapon.csproj.CoreCompileInputs.cache
+C:\Users\Victus\source\repos\Weapon\Weapon\obj\Debug\net8.0\Weapon.dll
+C:\Users\Victus\source\repos\Weapon\Weapon\obj\Debug\net8.0\refint\Weapon.dll
+C:\Users\Victus\source\repos\Weapon\Weapon\obj\Debug\net8.0\Weapon.pdb
+C:\Users\Victus\source\repos\Weapon\Weapon\obj\Debug\net8.0\Weapon.genruntimeconfig.cache
+C:\Users\Victus\source\repos\Weapon\Weapon\obj\Debug\net8.0\ref\Weapon.dll
+C:\Users\Victus\OneDrive\İş masası\Codecademy\Weapon\Weapon\bin\Debug\net8.0\Weapon.exe
+C:\Users\Victus\OneDrive\İş masası\Codecademy\Weapon\Weapon\bin\Debug\net8.0\Weapon.deps.json
+C:\Users\Victus\OneDrive\İş masası\Codecademy\Weapon\Weapon\bin\Debug\net8.0\Weapon.runtimeconfig.json
+C:\Users\Victus\OneDrive\İş masası\Codecademy\Weapon\Weapon\bin\Debug\net8.0\Weapon.dll
+C:\Users\Victus\OneDrive\İş masası\Codecademy\Weapon\Weapon\bin\Debug\net8.0\Weapon.pdb
+C:\Users\Victus\OneDrive\İş masası\Codecademy\Weapon\Weapon\obj\Debug\net8.0\Weapon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victus\OneDrive\İş masası\Codecademy\Weapon\Weapon\obj\Debug\net8.0\Weapon.AssemblyInfoInputs.cache
+C:\Users\Victus\OneDrive\İş masası\Codecademy\Weapon\Weapon\obj\Debug\net8.0\Weapon.AssemblyInfo.cs
+C:\Users\Victus\OneDrive\İş masası\Codecademy\Weapon\Weapon\obj\Debug\net8.0\Weapon.csproj.CoreCompileInputs.cache
+C:\Users\Victus\OneDrive\İş masası\Codecademy\Weapon\Weapon\obj\Debug\net8.0\Weapon.sourcelink.json
+C:\Users\Victus\OneDrive\İş masası\Codecademy\Weapon\Weapon\obj\Debug\net8.0\Weapon.dll
+C:\Users\Victus\OneDrive\İş masası\Codecademy\Weapon\Weapon\obj\Debug\net8.0\refint\Weapon.dll
+C:\Users\Victus\OneDrive\İş masası\Codecademy\Weapon\Weapon\obj\Debug\net8.0\Weapon.pdb
+C:\Users\Victus\OneDrive\İş masası\Codecademy\Weapon\Weapon\obj\Debug\net8.0\Weapon.genruntimeconfig.cache
+C:\Users\Victus\OneDrive\İş masası\Codecademy\Weapon\Weapon\obj\Debug\net8.0\ref\Weapon.dll
